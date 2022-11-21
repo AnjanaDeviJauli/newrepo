@@ -4,3 +4,5 @@ I am adding a new line.
 I am adding a new line without adding git add
 
 From the new branch
+I am in the new branch for real
+
